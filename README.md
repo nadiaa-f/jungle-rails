@@ -11,9 +11,9 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Screenshots
 
-!["Index Page"]()
-!["Cart Checkout Stripe Payment"]()
-!["Order Summary]()
+!["Index Page"](https://github.com/nadiaa-f/jungle-rails/blob/master/docs/main.png?raw=true)
+!["Cart Checkout Stripe Payment"](https://github.com/nadiaa-f/jungle-rails/blob/master/docs/payment.png?raw=true)
+!["Order Summary](https://github.com/nadiaa-f/jungle-rails/blob/master/docs/ordercomplete.png?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
